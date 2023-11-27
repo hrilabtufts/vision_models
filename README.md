@@ -1,2 +1,2 @@
-# vision_models
+# Vision Models
 Repository for vision models
